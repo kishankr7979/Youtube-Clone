@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import SearchArea from './SearchArea';
 import { Router, Link } from '@reach/router';
 import WatchArea from './WatchArea';
+import Footer from './footer.js';
 
 const App = () => {
 
@@ -19,9 +20,17 @@ const App = () => {
         SearchArea path = "/" / >
         <
         WatchArea path = "/watch/:id" / >
+
         <
-        /Router> < /
+        /Router>
+
+          <Footer path = "/" />
+        
+       < /
         div >
+
+
+
     )
 };
 
