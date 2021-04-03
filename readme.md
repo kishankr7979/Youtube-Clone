@@ -21,4 +21,4 @@
   ```
   <br>
   <br>
- <p align="center"> Made with &#x2764; by <b>Kishan</b> </p>
+ <p align="center"> Made with &#x2764; by <b> Kishan</b> </p>
